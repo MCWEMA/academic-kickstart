@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Title Academic Kickstart"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   gradient_start = "DarkGreen"
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "10", "20px", "10"]
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+Welcome to the **Hugo Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
